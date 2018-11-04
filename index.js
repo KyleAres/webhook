@@ -15,5 +15,5 @@ if (message.content.startsWith(prefix + "foo")) {
  message.channel.send("bar!");
  }
 });
- 
+  
 client.login(token);
